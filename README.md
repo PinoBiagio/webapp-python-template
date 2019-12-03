@@ -17,3 +17,6 @@ Qualsiasi cosa tu voglia creare, puoi usare questo template!
 Il tutorial che abbiamo usato anche in classe lo trovate [qui](https://wbigger.github.io/book-cs-3y/).
 
 Buon divertimento :)
+
+### Il mio progetto
+creare un app che riproduca la classifica generale del massimo campionato italiano di calcio
